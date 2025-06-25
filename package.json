@@ -1,0 +1,23 @@
+{
+  "name": "actual-finance-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgoMinhhh/actual-finance-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgoMinhhh/actual-finance-pipeline/issues"
+  },
+  "homepage": "https://github.com/NgoMinhhh/actual-finance-pipeline#readme",
+  "dependencies": {
+    "@actual-app/api": "^25.6.1"
+  }
+}
